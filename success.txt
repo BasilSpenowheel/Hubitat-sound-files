@@ -1,0 +1,7 @@
+Postman_Pat.mp3
+
+https://raw.githubusercontent.com/BasilSpenowheel/Hubitat-sound-files/master/Postman_Pat.mp3
+
+this URI worked to play the mp3 from hubitat device screen Play Track to play on Office Nest Hub
+
+NB avoid spaces in file names and paths
